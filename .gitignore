@@ -1,9 +1,9 @@
 # Environments
+venv/
 .env
 .venv
 .idea
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
